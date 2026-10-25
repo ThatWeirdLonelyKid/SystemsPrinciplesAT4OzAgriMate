@@ -1,4 +1,4 @@
-# SystemsPrinciplesAT4OzAgriMate
+# SystemsArchitectureDesignAT4OzAgriMate
 Assignment 4 
 CHECK LIST and description
 
