@@ -35,7 +35,7 @@ Example: DELETE /farms/101 — delete Farm 101.
 
 A microservice architecture structure will be used (each repository has its own database and each service owns its own data)
 
-1nd repo: farm management service (but be more specific what do we do here?) 
+1st repo: farm management service (but be more specific what do we do here?) 
 2nd repo: iot monitoring service 
-3d repo: AI recommendation service 
+3rd repo: AI recommendation service 
 4th repo: notification server (alerts reminders messages)
